@@ -370,4 +370,7 @@ dependencies:
       - geographiclib==2.0
       - geopy==2.3.0
       - mercantile==1.2.1
+      - psycopg==3.1.9
+      - psycopg-binary==3.1.9
+      - psycopg2==2.9.6
 prefix: /Users/czhang/miniforge3/envs/ox
