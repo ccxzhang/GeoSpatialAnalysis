@@ -8,9 +8,12 @@ layout: default
 
 * [GeoPandas](https://nbviewer.org/github/ccxzhang/GeoSpatialAnalysis/blob/main/python/0.1.geopandas.ipynb) with Contextily
 
+  * Output: a [map](/output/DMV_2020_PreElec.html) with DMV's 2020 Presidential Election votes by precinct.
+
 * [Rasterio/Xarray](https://nbviewer.org/github/ccxzhang/GeoSpatialAnalysis/blob/main/python/0.2.rasterio.ipynb)
 
 * Google Earth Engine
+
   * [DMSP](https://nbviewer.org/github/ccxzhang/GeoSpatialAnalysis/blob/main/python/0.3.1.gee_dmsp.ipynb)
 
   * [LANDSAT](https://nbviewer.org/github/ccxzhang/GeoSpatialAnalysis/blob/main/python/0.3.gee_landsat.ipynb)
@@ -24,6 +27,7 @@ layout: default
 ## Javascript Scripts and APIs
 
 * Google Earth Engine
+
   * [LANDSAT](/js/landsat_ndvi.js)
 
 * Leaflet
