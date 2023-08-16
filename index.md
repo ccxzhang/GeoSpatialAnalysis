@@ -6,9 +6,9 @@ layout: default
 
 ## Python Packages and APIs
 
-* [GeoPandas](https://nbviewer.org/github/ccxzhang/GeoSpatialAnalysis/blob/main/python/0.1.geopandas.ipynb) with Contextily
+* [GeoPandas](https://nbviewer.org/github/ccxzhang/GeoSpatialAnalysis/blob/main/python/0.1.geopandas.ipynb) with Contextily: [map](/output/DMV_2020_PreElec.html) with DMV's 2020 Presidential Election votes by precinct
 
-  * Output: a [map](/output/DMV_2020_PreElec.html) with DMV's 2020 Presidential Election votes by precinct.
+* [movingpandas](https://nbviewer.org/github/ccxzhang/GeoSpatialAnalysis/blob/main/python/0.0.6.movingpandas.ipynb) with AIS data
 
 * [Rasterio/Xarray](https://nbviewer.org/github/ccxzhang/GeoSpatialAnalysis/blob/main/python/0.2.rasterio.ipynb)
 
