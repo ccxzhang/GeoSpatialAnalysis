@@ -10,16 +10,15 @@ layout: default
 
 * [movingpandas](https://nbviewer.org/github/ccxzhang/GeoSpatialAnalysis/blob/main/python/0.0.6.movingpandas.ipynb) with AIS data
 
-* [Rasterio/Xarray](https://nbviewer.org/github/ccxzhang/GeoSpatialAnalysis/blob/main/python/0.2.rasterio.ipynb)
+* [Rasterio/Rioxarray](https://nbviewer.org/github/ccxzhang/GeoSpatialAnalysis/blob/main/python/0.2.rasterio.ipynb)
+  * See Clipped [Gridded Population Density (1 * 1 km) for VA](/data/raster	/gpw_v4_va_30sec.tif)
+
 
 * Google Earth Engine
-
   * [DMSP](https://nbviewer.org/github/ccxzhang/GeoSpatialAnalysis/blob/main/python/0.3.1.gee_dmsp.ipynb)
-
   * [LANDSAT](https://nbviewer.org/github/ccxzhang/GeoSpatialAnalysis/blob/main/python/0.3.gee_landsat.ipynb)
 
 * [OpenStreetMap/OSMNX](https://nbviewer.org/github/ccxzhang/GeoSpatialAnalysis/blob/main/python/0.4.osm.ipynb)
-
   * [NetworkX](https://nbviewer.org/github/ccxzhang/GeoSpatialAnalysis/blob/main/python/other-networkx.ipynb)
 
 * [H3](https://nbviewer.org/github/ccxzhang/GeoSpatialAnalysis/blob/main/python/0.5.h3-py.ipynb)
@@ -27,11 +26,9 @@ layout: default
 ## Javascript Scripts and APIs
 
 * Google Earth Engine
-
   * [LANDSAT](/js/landsat_ndvi.js)
 
 * Leaflet
-
   * [Using GeoJson](/js/0.0.1-geojson/dc_metro.html)
 
 ## Open Data
