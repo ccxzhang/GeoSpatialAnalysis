@@ -13,7 +13,6 @@ layout: default
 * [Rasterio/Rioxarray](https://nbviewer.org/github/ccxzhang/GeoSpatialAnalysis/blob/main/python/0.2.rasterio.ipynb)
   * See Clipped [Gridded Population Density (1 * 1 km) for VA](/data/raster	/gpw_v4_va_30sec.tif)
 
-
 * Google Earth Engine
   * [DMSP](https://nbviewer.org/github/ccxzhang/GeoSpatialAnalysis/blob/main/python/0.3.1.gee_dmsp.ipynb)
   * [LANDSAT](https://nbviewer.org/github/ccxzhang/GeoSpatialAnalysis/blob/main/python/0.3.gee_landsat.ipynb)
@@ -22,6 +21,8 @@ layout: default
   * [NetworkX](https://nbviewer.org/github/ccxzhang/GeoSpatialAnalysis/blob/main/python/other-networkx.ipynb)
 
 * [H3](https://nbviewer.org/github/ccxzhang/GeoSpatialAnalysis/blob/main/python/0.5.h3-py.ipynb)
+
+* [pyDeck](https://nbviewer.org/github/ccxzhang/GeoSpatialAnalysis/blob/main/python/viz-pydeck.ipynb)
 
 ## Javascript Scripts and APIs
 
