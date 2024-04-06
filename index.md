@@ -30,7 +30,7 @@ layout: default
   * [LANDSAT](/js/landsat_ndvi.js)
 
 * Leaflet
-  * [Using GeoJson](/js/0.0.1-geojson/dc_metro.html)
+  * [Using GeoJson](https://charliezhang.net/GeoSpatialAnalysis/js/leaflet-geojson/dc_metro.html)
 
 ## Open Data
 
